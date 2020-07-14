@@ -2,3 +2,4 @@ packages
 .vs
 FAIL/bin
 FAIL/obj
+FAIL/client_secret.json
